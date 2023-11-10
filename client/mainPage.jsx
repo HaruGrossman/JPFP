@@ -4,7 +4,8 @@ import NavigationBar from "./Components/navigationBar";
 function MainPage() {
     return (
         NavigationBar,
-        AllStudentList
+        AllStudentList,
+        Footer
     )
 }
 export default MainPage
