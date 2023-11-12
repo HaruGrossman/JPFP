@@ -1,10 +1,10 @@
 import './App.css'
 
-function App() {
+function Rename() {
     return (
         <>
         </>
     )
 }
 
-export default App
+export default Rename
